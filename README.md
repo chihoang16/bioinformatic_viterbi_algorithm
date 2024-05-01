@@ -13,5 +13,6 @@ In the Loaded Die state:
 It will test the Viterbi algorithm on a sequence of rolls with size ranging from 100 to 2000 rolls
 And produces two graphs: Accuracy vs. number of rolls and MCC vs. number of rolls
 To run the program, write
+
   python3 viterbi.py
   
